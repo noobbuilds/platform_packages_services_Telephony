@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="dialer_default_classes" translatable="false">
+        <item>com.android.dialer/com.android.dialer.DialtactsActivity</item>
+        <item>com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity</item>
+    </string-array>
+</resources>
